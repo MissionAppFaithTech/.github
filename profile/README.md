@@ -14,7 +14,7 @@
 [![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com/)
 
 <!-- Social -->
-[![GitHub Stars](https://img.shields.io/github/stars/MissionAppFaithTech/MissionAppBackend?style=flat-square&logo=github&label=stars)](https://github.com/AFSFerreira/MissionAppBackend/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/MissionAppFaithTech?affiliations=OWNER&style=flat-square&logo=github&label=stars)](https://github.com/MissionAppFaithTech)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](https://github.com/AFSFerreira/MissionApp_Backend/pulls)
 [![License: MIT](https://img.shields.io/badge/Licença-MIT-F7DF1E?style=flat-square)](LICENSE)
 
