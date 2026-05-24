@@ -141,19 +141,6 @@ O MissionApp resolve isso. É uma plataforma **open-source** que oferece ao miss
 <table>
   <tr>
     <td align="center" width="160">
-      <a href="https://github.com/AFSFerreira">
-        <img src="https://avatars.githubusercontent.com/AFSFerreira" width="90" alt="Allber Ferreira"/>
-        <br/>
-        <strong>Allber Ferreira</strong>
-      </a>
-      <br/>
-      <sub>Dev Backend</sub>
-      <br/>
-      <a href="https://github.com/AFSFerreira">
-        <img src="https://img.shields.io/badge/-@AFSFerreira-181717?style=flat-square&logo=github" alt="GitHub"/>
-      </a>
-    </td>
-    <td align="center" width="160">
       <a href="https://github.com/allanacaoliveira">
         <img src="https://avatars.githubusercontent.com/allanacaoliveira" width="90" alt="Allana Oliveira"/>
         <br/>
@@ -164,6 +151,19 @@ O MissionApp resolve isso. É uma plataforma **open-source** que oferece ao miss
       <br/>
       <a href="https://github.com/allanacaoliveira">
         <img src="https://img.shields.io/badge/-@allanacaoliveira-181717?style=flat-square&logo=github" alt="GitHub"/>
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/AFSFerreira">
+        <img src="https://avatars.githubusercontent.com/AFSFerreira" width="90" alt="Allber Ferreira"/>
+        <br/>
+        <strong>Allber Ferreira</strong>
+      </a>
+      <br/>
+      <sub>Dev Backend</sub>
+      <br/>
+      <a href="https://github.com/AFSFerreira">
+        <img src="https://img.shields.io/badge/-@AFSFerreira-181717?style=flat-square&logo=github" alt="GitHub"/>
       </a>
     </td>
     <td align="center" width="160">
