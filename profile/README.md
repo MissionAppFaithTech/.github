@@ -124,7 +124,7 @@ O MissionApp resolve isso. É uma plataforma **open-source** que oferece ao miss
       </td>
       <td>
         Interface mobile e web — feed de missionários, descoberta de projetos, campanhas, doações e painel administrativo.
-        Desenvolvido com <strong>Next.js 19</strong>, <strong>React 19</strong> e <strong>TypeScript</strong>.
+        Desenvolvido com <strong>Next.js 16</strong>, <strong>React 19</strong> e <strong>TypeScript</strong>.
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/Next.js%2019-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js 16"/>
