@@ -122,7 +122,10 @@ O MissionApp resolve isso. É uma plataforma **open-source** que oferece ao miss
         <br/><br/>
         <img src="https://img.shields.io/badge/status-em%20desenvolvimento-f5c200?style=flat-square" alt="status"/>
       </td>
-      <td>Interface mobile e web — feed de missionários, descoberta de projetos, campanhas, doações e painel administrativo.</td>
+      <td>
+        Interface mobile e web — feed de missionários, descoberta de projetos, campanhas, doações e painel administrativo.
+        Desenvolvido com <strong>Next.js 19</strong>, <strong>React 19</strong> e <strong>TypeScript</strong>.
+      </td>
       <td align="center">
         <img src="https://img.shields.io/badge/Em%20breve-888?style=flat-square" alt="Em breve"/>
       </td>
