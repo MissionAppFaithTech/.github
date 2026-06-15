@@ -127,7 +127,7 @@ O MissionApp resolve isso. É uma plataforma **open-source** que oferece ao miss
         Desenvolvido com <strong>Next.js 16</strong>, <strong>React 19</strong> e <strong>TypeScript</strong>.
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Next.js%2019-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js 16"/>
+        <img src="https://img.shields.io/badge/Next.js%2016-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js 16"/>
         <img src="https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
       </td>
