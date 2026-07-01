@@ -109,7 +109,10 @@ O MissionApp resolve isso. É uma plataforma **open-source** que oferece ao miss
         <br/><br/>
         <img src="https://img.shields.io/badge/status-em%20desenvolvimento-ff6c22?style=flat-square" alt="status"/>
       </td>
-      <td>API REST — autenticação, perfis de missionários e apoiadores, posts, projetos de impacto, campanhas de arrecadação e doações.</td>
+      <td>
+        API REST — autenticação, perfis de missionários e apoiadores, posts, projetos de impacto, campanhas de arrecadação e doações.
+        Desenvolvido com <strong>AdonisJS v7</strong>, <strong>Node.js 24</strong> e <strong>TypeScript</strong>.
+      </td>
       <td align="center">
         <img src="https://img.shields.io/badge/AdonisJS-5A45FF?style=flat-square&logo=adonisjs&logoColor=white" alt="AdonisJS"/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
