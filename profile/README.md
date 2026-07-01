@@ -6,20 +6,6 @@
 
 <div align="center">
 
-<!-- Tech Stack -->
-[![Node.js](https://img.shields.io/badge/Node.js-24.x-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-6.x-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![AdonisJS](https://img.shields.io/badge/AdonisJS-7.x-5A45FF?style=for-the-badge&logo=adonisjs&logoColor=white)](https://adonisjs.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18.x-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com/)
-
-<!-- Social -->
-[![GitHub Stars](https://img.shields.io/github/stars/MissionAppFaithTech?affiliations=OWNER&style=flat-square&logo=github&label=stars)](https://github.com/MissionAppFaithTech)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](https://github.com/AFSFerreira/MissionApp_Backend/pulls)
-[![License: MIT](https://img.shields.io/badge/Licença-MIT-F7DF1E?style=flat-square)](LICENSE)
-
-<br/>
-
 <!-- FaithTech Association -->
 **Uma iniciativa em parceria com a [FaithTech](https://www.faithtech.com/) — *A global tech community for Christ***
 
@@ -189,6 +175,28 @@ O MissionApp resolve isso. É uma plataforma **open-source** que oferece ao miss
     </td>
   </tr>
 </table>
+
+</div>
+
+---
+
+## ❤️ Contribuidores
+
+<div align="center">
+
+Um muito obrigado a todos que dedicam seu tempo e código para construir o MissionApp! Aqui estão os desenvolvedores que ajudaram nas nossas soluções:
+
+<br/>
+
+<!-- Backend -->
+<a href="https://github.com/MissionAppFaithTech/MissionAppBackend/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=MissionAppFaithTech/MissionAppBackend" alt="MissionApp Backend Contributors" />
+</a>
+
+<!-- Frontend -->
+<a href="https://github.com/MissionAppFaithTech/MissionAppFrontend/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=MissionAppFaithTech/MissionAppFrontend" alt="MissionApp Frontend Contributors" />
+</a>
 
 </div>
 
