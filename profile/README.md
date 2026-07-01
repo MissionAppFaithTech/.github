@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0b08,50:2a1510,100:b86040&height=220&section=header&text=MissionApp&fontSize=72&fontColor=f5c200&fontAlignY=38&desc=Conectando+missionários+e+apoiadores+ao+redor+do+mundo&descSize=18&descAlignY=60&descColor=f0c8a0&animation=fadeIn" width="100%" alt="MissionApp Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:021b44,50:0a4696,100:0e7cf4&height=220&section=header&text=MissionApp&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Conectando+missionários+e+apoiadores+ao+redor+do+mundo&descSize=18&descAlignY=60&descColor=e0f0ff&animation=fadeIn" width="100%" alt="MissionApp Banner"/>
 
 </div>
 
@@ -107,7 +107,7 @@ O MissionApp resolve isso. É uma plataforma **open-source** que oferece ao miss
       <td align="center">
         <a href="https://github.com/MissionAppFaithTech/MissionAppBackend"><strong>MissionAppBackend</strong></a>
         <br/><br/>
-        <img src="https://img.shields.io/badge/status-em%20desenvolvimento-f5c200?style=flat-square" alt="status"/>
+        <img src="https://img.shields.io/badge/status-em%20desenvolvimento-ff6c22?style=flat-square" alt="status"/>
       </td>
       <td>API REST — autenticação, perfis de missionários e apoiadores, posts, projetos de impacto, campanhas de arrecadação e doações.</td>
       <td align="center">
@@ -120,7 +120,7 @@ O MissionApp resolve isso. É uma plataforma **open-source** que oferece ao miss
       <td align="center">
         <a href="https://github.com/MissionAppFaithTech/MissionAppFrontend"><strong>MissionAppFrontend</strong></a>
         <br/><br/>
-        <img src="https://img.shields.io/badge/status-em%20desenvolvimento-f5c200?style=flat-square" alt="status"/>
+        <img src="https://img.shields.io/badge/status-em%20desenvolvimento-ff6c22?style=flat-square" alt="status"/>
       </td>
       <td>
         Interface mobile e web — feed de missionários, descoberta de projetos, campanhas, doações e painel administrativo.
@@ -228,7 +228,7 @@ Dúvidas, sugestões ou parcerias? Fale com a gente:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b86040,50:2a1510,100:0d0b08&height=100&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e7cf4,50:0a4696,100:021b44&height=100&section=footer" width="100%" alt="footer"/>
 
 *Feito com* ✝️ *e* ☕ *pelo time MissionApp*
 
