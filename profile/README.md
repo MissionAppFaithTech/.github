@@ -105,22 +105,6 @@ O MissionApp resolve isso. É uma plataforma **open-source** que oferece ao miss
   <tbody>
     <tr>
       <td align="center">
-        <a href="https://github.com/MissionAppFaithTech/MissionAppBackend"><strong>MissionAppBackend</strong></a>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/status-em%20desenvolvimento-ff6c22?style=flat-square" alt="status"/>
-      </td>
-      <td>
-        API REST — autenticação, perfis de missionários e apoiadores, posts, projetos de impacto, campanhas de arrecadação e doações.
-        Desenvolvido com <strong>AdonisJS v7</strong>, <strong>Node.js 24</strong> e <strong>TypeScript</strong>.
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/AdonisJS-5A45FF?style=flat-square&logo=adonisjs&logoColor=white" alt="AdonisJS"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
         <a href="https://github.com/MissionAppFaithTech/MissionAppFrontend"><strong>MissionAppFrontend</strong></a>
         <br/><br/>
         <img src="https://img.shields.io/badge/status-em%20desenvolvimento-ff6c22?style=flat-square" alt="status"/>
@@ -132,6 +116,22 @@ O MissionApp resolve isso. É uma plataforma **open-source** que oferece ao miss
       <td align="center">
         <img src="https://img.shields.io/badge/Next.js%2016-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js 16"/>
         <img src="https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/MissionAppFaithTech/MissionAppBackend"><strong>MissionAppBackend</strong></a>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/status-em%20desenvolvimento-ff6c22?style=flat-square" alt="status"/>
+      </td>
+      <td>
+        API REST — autenticação, perfis de missionários e apoiadores, posts, projetos de impacto, campanhas de arrecadação e doações.
+        Desenvolvido com <strong>AdonisJS v7</strong>, <strong>Node.js 24</strong> e <strong>TypeScript</strong>.
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/AdonisJS-5A45FF?style=flat-square&logo=adonisjs&logoColor=white" alt="AdonisJS"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
       </td>
     </tr>
